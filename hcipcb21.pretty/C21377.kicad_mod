@@ -38,7 +38,7 @@
   (pad MP2 smd rect (at -1.2 0.035) (size 1.9 1.9) (layers F.Cu F.Paste F.Mask))
   (pad MP3 smd rect (at 1.2 0.035) (size 1.9 1.9) (layers F.Cu F.Paste F.Mask))
   (pad MP4 smd rect (at 3.95 0.035) (size 1.9 1.9) (layers F.Cu F.Paste F.Mask))
-  (model "D:/Cloud/OneDrive - The University of Chicago/Libraries/PCB/KiCad/hcipcb21/3D/C21377.stp"
+  (model "${HCIPCB_3D}/C21377.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
