@@ -5,4 +5,10 @@ D USB Connectors SMD RoHS
 F https://datasheet.lcsc.com/szlcsc/Boom-Precision-Elec-Micro-USB-Female-5P_C21377.pdf
 $ENDCMP
 #
+$CMP nRF52840_all_pins
+D Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, AQFN-73
+K MCU, ARM, BLE, ANT, 2.4GHz, 802.15.4
+F http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.nrf52/dita/nrf52/chips/nrf52840.html
+$ENDCMP
+#
 #End Doc Library
